@@ -40,14 +40,19 @@ export default function Portfolio() {
         return () => ctx.revert()
     }, [])
 
-    // Lock/unlock body scroll when modal opens/closes
+    // Lock/unlock body scroll AND Lenis when modal opens/closes
     useEffect(() => {
         if (activeProject) {
             document.body.style.overflow = 'hidden'
+            if (window.__lenis) window.__lenis.stop()
         } else {
             document.body.style.overflow = ''
+            if (window.__lenis) window.__lenis.start()
         }
-        return () => { document.body.style.overflow = '' }
+        return () => {
+            document.body.style.overflow = ''
+            if (window.__lenis) window.__lenis.start()
+        }
     }, [activeProject])
 
     const openProject = (project) => {

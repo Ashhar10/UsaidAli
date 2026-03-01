@@ -29,6 +29,7 @@ function App() {
             smoothWheel: true,
         })
         lenisRef.current = lenis
+        window.__lenis = lenis
 
         lenis.on('scroll', ScrollTrigger.update)
 
