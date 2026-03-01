@@ -55,6 +55,15 @@ export default function Portfolio() {
         }
     }, [activeProject])
 
+    // Manually scroll the modal — Lenis intercepts wheel events at document
+    // level even when stopped, so we must handle it ourselves here.
+    const handleModalWheel = (e) => {
+        e.stopPropagation()
+        if (modalRef.current) {
+            modalRef.current.scrollTop += e.deltaY
+        }
+    }
+
     const openProject = (project) => {
         setActiveProject(project)
         setCurrentImageIndex(0)
@@ -163,7 +172,7 @@ export default function Portfolio() {
             {/* Project Modal */}
             {activeProject && (
                 <div ref={overlayRef} className="modal-overlay" onClick={closeProject}>
-                    <div ref={modalRef} className="modal" onClick={e => e.stopPropagation()}>
+                    <div ref={modalRef} className="modal" onClick={e => e.stopPropagation()} onWheel={handleModalWheel}>
                         <button className="modal-close" onClick={closeProject}>✕</button>
 
                         {/* Hero with actual render image */}
