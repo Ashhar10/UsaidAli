@@ -1,0 +1,9 @@
+/* App level styles */
+.page-transition {
+    position: fixed;
+    inset: 0;
+    background: var(--dark-accent);
+    z-index: 9998;
+    transform: scaleY(0);
+    transform-origin: bottom;
+}

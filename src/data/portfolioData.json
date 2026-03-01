@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "title": "Bedroom",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Bedroom. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#C4B5A8",
+    "accent": "#8B7A6F",
+    "images": [
+      "/img/Bedroom/4.png",
+      "/img/Bedroom/8.png",
+      "/img/Bedroom/Bedroom.png"
+    ],
+    "folder": "Bedroom"
+  },
+  {
+    "id": 2,
+    "title": "Camera Animate",
+    "category": "Architecture / Interior",
+    "software": [
+      "Unreal Engine",
+      "Lumen"
+    ],
+    "desc": "A stunning collection of renders for the Camera Animate. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#B8A99A",
+    "accent": "#7A6B5F",
+    "images": [],
+    "folder": "Camera_animate"
+  },
+  {
+    "id": 3,
+    "title": "Coffee Shop",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Coffee Shop. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#A89888",
+    "accent": "#6B5C50",
+    "images": [
+      "/img/Coffee_Shop/01.png"
+    ],
+    "folder": "Coffee_Shop"
+  },
+  {
+    "id": 4,
+    "title": "Dining",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Dining. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#968880",
+    "accent": "#5E5048",
+    "images": [
+      "/img/Dining/Dining_01.png",
+      "/img/Dining/Dining_02.png",
+      "/img/Dining/Dining_03.png",
+      "/img/Dining/Shot_01.png",
+      "/img/Dining/Shot_02.png"
+    ],
+    "folder": "Dining"
+  },
+  {
+    "id": 5,
+    "title": "Funky Room",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Funky Room. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#847770",
+    "accent": "#4E4540",
+    "images": [
+      "/img/Funky_Room/1.png",
+      "/img/Funky_Room/2.png",
+      "/img/Funky_Room/3.png",
+      "/img/Funky_Room/4.png",
+      "/img/Funky_Room/A1.png",
+      "/img/Funky_Room/A2.png",
+      "/img/Funky_Room/A3.png",
+      "/img/Funky_Room/B1.png",
+      "/img/Funky_Room/B2.png",
+      "/img/Funky_Room/B3.png",
+      "/img/Funky_Room/C1.png",
+      "/img/Funky_Room/C2.png",
+      "/img/Funky_Room/C3.png"
+    ],
+    "folder": "Funky_Room"
+  },
+  {
+    "id": 6,
+    "title": "Garden",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Garden. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#735E53",
+    "accent": "#4A3B33",
+    "images": [
+      "/img/Garden/Tropical-indoor_02.png",
+      "/img/Garden/WhatsApp-Image-2025-08-25-at-13.48.png"
+    ],
+    "folder": "Garden"
+  },
+  {
+    "id": 7,
+    "title": "Gearage",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Gearage. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#6A7B82",
+    "accent": "#3F4E54",
+    "images": [
+      "/img/Gearage/Gearage.png"
+    ],
+    "folder": "Gearage"
+  },
+  {
+    "id": 8,
+    "title": "Iron Room",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Iron Room. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#7E8A7A",
+    "accent": "#4B5748",
+    "images": [
+      "/img/Iron_room/Iron_Room.png"
+    ],
+    "folder": "Iron_room"
+  },
+  {
+    "id": 9,
+    "title": "Isomatrixc",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Isomatrixc. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#8E7B7B",
+    "accent": "#5B4A4A",
+    "images": [
+      "/img/Isomatrixc/01.png",
+      "/img/Isomatrixc/02.png",
+      "/img/Isomatrixc/03.png",
+      "/img/Isomatrixc/Ground_Floor.png"
+    ],
+    "folder": "Isomatrixc"
+  },
+  {
+    "id": 10,
+    "title": "Kitchen",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Kitchen. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#C4B5A8",
+    "accent": "#8B7A6F",
+    "images": [
+      "/img/Kitchen/010069.png"
+    ],
+    "folder": "Kitchen"
+  },
+  {
+    "id": 11,
+    "title": "Laundry Room",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Laundry Room. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#B8A99A",
+    "accent": "#7A6B5F",
+    "images": [
+      "/img/Laundry_room/Laundry_Room_Cam_01.png",
+      "/img/Laundry_room/Laundry_Room_Cam_02.png",
+      "/img/Laundry_room/Laundry_room_v01.png"
+    ],
+    "folder": "Laundry_room"
+  },
+  {
+    "id": 12,
+    "title": "Lobby",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Lobby. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#A89888",
+    "accent": "#6B5C50",
+    "images": [
+      "/img/lobby/Lobby.png",
+      "/img/lobby/Lobby_01.png"
+    ],
+    "folder": "lobby"
+  },
+  {
+    "id": 13,
+    "title": "Lounge",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Lounge. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#968880",
+    "accent": "#5E5048",
+    "images": [
+      "/img/Lounge/01.png",
+      "/img/Lounge/02.png",
+      "/img/Lounge/03.png",
+      "/img/Lounge/04.png",
+      "/img/Lounge/fd050523-bff5-4ac1-a879-46c7cc0ecbff.png",
+      "/img/Lounge/Lounge.png",
+      "/img/Lounge/Lounge_01.png",
+      "/img/Lounge/Lounge_02.png",
+      "/img/Lounge/Lounge_03.png",
+      "/img/Lounge/Lounge_1.png",
+      "/img/Lounge/Lounge_2.png",
+      "/img/Lounge/Lounge_3.png",
+      "/img/Lounge/Lounge_4.png",
+      "/img/Lounge/Majlis_V1_01.png",
+      "/img/Lounge/Majlis_V1_02.png",
+      "/img/Lounge/Majlis_V1_03.png",
+      "/img/Lounge/Majlis_V2_01.png",
+      "/img/Lounge/Majlis_V2_02.png",
+      "/img/Lounge/Majlis_V2_03.png",
+      "/img/Lounge/Multipurpose_Hall_01.png",
+      "/img/Lounge/Multipurpose_Hall_02.png",
+      "/img/Lounge/WhatsApp-Image-2025-08-25-at-13.48.png",
+      "/img/Lounge/WhatsApp-Image-2025-08-25-at-13.49.png"
+    ],
+    "folder": "Lounge"
+  },
+  {
+    "id": 14,
+    "title": "Office",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Office. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#847770",
+    "accent": "#4E4540",
+    "images": [
+      "/img/Office/01.png"
+    ],
+    "folder": "Office"
+  },
+  {
+    "id": 15,
+    "title": "Powder Room",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Powder Room. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#735E53",
+    "accent": "#4A3B33",
+    "images": [
+      "/img/Powder_Room/01.png",
+      "/img/Powder_Room/02.png"
+    ],
+    "folder": "Powder_Room"
+  },
+  {
+    "id": 16,
+    "title": "Wardrobe",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Wardrobe. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#6A7B82",
+    "accent": "#3F4E54",
+    "images": [
+      "/img/Wardrobe/Wardrobe.png"
+    ],
+    "folder": "Wardrobe"
+  },
+  {
+    "id": 17,
+    "title": "Wine Room",
+    "category": "Architecture / Interior",
+    "software": [
+      "3ds Max",
+      "Corona Renderer"
+    ],
+    "desc": "A stunning collection of renders for the Wine Room. Featuring detailed modeling, realistic lighting, and premium materials carefully selected to create an immersive photorealistic environment.",
+    "color": "#7E8A7A",
+    "accent": "#4B5748",
+    "images": [
+      "/img/Wine_Room/Wine_Cave.png",
+      "/img/Wine_Room/Wine_Cave_Cam_01.png",
+      "/img/Wine_Room/Wine_Cave_Cam_02.png"
+    ],
+    "folder": "Wine_Room"
+  }
+]

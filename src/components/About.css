@@ -1,0 +1,244 @@
+.about {
+    background: var(--bg-light);
+    padding: 10rem 4rem;
+}
+
+.about-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6rem;
+    align-items: center;
+}
+
+.about-text {
+    opacity: 0;
+}
+
+.about-visual {
+    opacity: 0;
+}
+
+.about-heading {
+    font-size: clamp(2.2rem, 5vw, 4rem);
+    margin-bottom: 1.8rem;
+    color: var(--dark-accent);
+    line-height: 1.15;
+}
+
+.about-heading em {
+    font-style: italic;
+    color: var(--muted-olive);
+}
+
+.about-desc {
+    color: var(--dark-accent);
+    opacity: 0.75;
+    margin-bottom: 3.5rem;
+    max-width: 480px;
+}
+
+.about-desc strong {
+    color: var(--dark-accent);
+    font-weight: 500;
+    opacity: 1;
+}
+
+/* Counters */
+.counters {
+    display: flex;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+
+.counter-item {
+    opacity: 0;
+}
+
+.counter-value {
+    display: flex;
+    align-items: baseline;
+    gap: 0.1rem;
+}
+
+.counter-num {
+    font-family: var(--font-serif);
+    font-size: clamp(2.5rem, 5vw, 3.8rem);
+    font-weight: 300;
+    color: var(--dark-accent);
+    line-height: 1;
+}
+
+.counter-suffix {
+    font-family: var(--font-serif);
+    font-size: 2rem;
+    color: var(--muted-olive);
+    margin-left: 2px;
+}
+
+.counter-label {
+    font-size: 0.72rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--muted-olive);
+    margin-top: 0.3rem;
+}
+
+/* Visual */
+.about-visual {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 420px;
+}
+
+.about-shape-outer {
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.about-shape-inner {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, var(--muted-olive) 0%, var(--bg-light) 100%);
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 40px 80px rgba(60, 54, 51, 0.12), 0 8px 24px rgba(116, 114, 100, 0.1);
+    animation: morphShape 8s ease-in-out infinite;
+}
+
+@keyframes morphShape {
+
+    0%,
+    100% {
+        border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    }
+
+    25% {
+        border-radius: 70% 30% 30% 70% / 70% 70% 30% 30%;
+    }
+
+    50% {
+        border-radius: 50% 50% 30% 70% / 50% 70% 30% 50%;
+    }
+
+    75% {
+        border-radius: 30% 70% 70% 30% / 70% 30% 70% 30%;
+    }
+}
+
+.about-initials {
+    font-family: var(--font-serif);
+    font-size: 3.5rem;
+    font-weight: 400;
+    color: var(--dark-accent);
+    letter-spacing: 0.05em;
+    line-height: 1;
+}
+
+.about-role {
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted-olive);
+    margin-top: 0.5rem;
+}
+
+.about-ring {
+    position: absolute;
+    inset: -20px;
+    border: 1px solid rgba(255, 252, 208, 0.15);
+    border-radius: 50%;
+    animation: spinRing 20s linear infinite;
+}
+
+.ring2 {
+    inset: -40px;
+    border-style: dashed;
+    animation-direction: reverse;
+    animation-duration: 30s;
+}
+
+@keyframes spinRing {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Tags */
+.about-tag {
+    position: absolute;
+    background: var(--dark-accent);
+    color: var(--bg-light);
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    padding: 0.5rem 1rem;
+    border-radius: 100px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    white-space: nowrap;
+}
+
+.tag1 {
+    top: 10%;
+    right: 0;
+    animation: floatTag 4s ease-in-out infinite;
+}
+
+.tag2 {
+    bottom: 20%;
+    right: -10px;
+    animation: floatTag 5s ease-in-out infinite 0.5s;
+}
+
+.tag3 {
+    bottom: 10%;
+    left: 0;
+    animation: floatTag 4.5s ease-in-out infinite 1s;
+}
+
+@keyframes floatTag {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-8px);
+    }
+}
+
+@media (max-width: 900px) {
+    .about {
+        padding: 7rem 2rem;
+    }
+
+    .about-inner {
+        grid-template-columns: 1fr;
+        gap: 4rem;
+    }
+
+    .about-visual {
+        min-height: 300px;
+    }
+
+    .about-shape-outer {
+        width: 220px;
+        height: 220px;
+    }
+
+    .counters {
+        gap: 2rem;
+    }
+}

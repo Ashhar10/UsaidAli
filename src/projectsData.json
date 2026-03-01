@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "folder": "Bedroom",
+    "title": "Bedroom",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Bedroom project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Bedroom/4.jpg",
+      "/img/Bedroom/8.jpg",
+      "/img/Bedroom/Bedroom.png"
+    ]
+  },
+  {
+    "id": 2,
+    "folder": "Camera_animate",
+    "title": "Camera Animate",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Camera Animate project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": []
+  },
+  {
+    "id": 3,
+    "folder": "Coffee_Shop",
+    "title": "Coffee Shop",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Coffee Shop project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Coffee_Shop/01.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "folder": "Dining",
+    "title": "Dining",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Dining project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Dining/Dining_01.jpg",
+      "/img/Dining/Dining_02.jpg",
+      "/img/Dining/Dining_03.jpg",
+      "/img/Dining/Shot_01.png",
+      "/img/Dining/Shot_02.png"
+    ]
+  },
+  {
+    "id": 5,
+    "folder": "Funky_Room",
+    "title": "Funky Room",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Funky Room project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Funky_Room/1.png",
+      "/img/Funky_Room/2.png",
+      "/img/Funky_Room/3.png",
+      "/img/Funky_Room/4.png",
+      "/img/Funky_Room/A1.png",
+      "/img/Funky_Room/A2.png",
+      "/img/Funky_Room/A3.png",
+      "/img/Funky_Room/B1.png",
+      "/img/Funky_Room/B2.png",
+      "/img/Funky_Room/B3.png",
+      "/img/Funky_Room/C1.png",
+      "/img/Funky_Room/C2.png",
+      "/img/Funky_Room/C3.png"
+    ]
+  },
+  {
+    "id": 6,
+    "folder": "Garden",
+    "title": "Garden",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Garden project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Garden/Tropical-indoor_02.png",
+      "/img/Garden/WhatsApp Image 2025-08-25 at 13.48.43_c54fe030.jpg",
+      "/img/Garden/WhatsApp Image 2025-08-25 at 13.48.44_94235e6c.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "folder": "Gearage",
+    "title": "Gearage",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Gearage project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Gearage/Gearage.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "folder": "Iron_room",
+    "title": "Iron Room",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Iron Room project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Iron_room/Iron_Room.png"
+    ]
+  },
+  {
+    "id": 9,
+    "folder": "Isomatrixc",
+    "title": "Isomatrixc",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Isomatrixc project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Isomatrixc/01.png",
+      "/img/Isomatrixc/02.png",
+      "/img/Isomatrixc/03.png",
+      "/img/Isomatrixc/First_Floor.jpg",
+      "/img/Isomatrixc/First_FloorJ.jpg",
+      "/img/Isomatrixc/Ground_Floor.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "folder": "Kitchen",
+    "title": "Kitchen",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Kitchen project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Kitchen/010069.png"
+    ]
+  },
+  {
+    "id": 11,
+    "folder": "Laundry_room",
+    "title": "Laundry Room",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Laundry Room project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Laundry_room/Laundry_Room_Cam_01.png",
+      "/img/Laundry_room/Laundry_Room_Cam_02.png",
+      "/img/Laundry_room/Laundry_room_v01.png"
+    ]
+  },
+  {
+    "id": 12,
+    "folder": "lobby",
+    "title": "Lobby",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Lobby project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/lobby/Lobby.png",
+      "/img/lobby/Lobby_01.png"
+    ]
+  },
+  {
+    "id": 13,
+    "folder": "Lounge",
+    "title": "Lounge",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Lounge project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Lounge/01.jpg",
+      "/img/Lounge/02.jpg",
+      "/img/Lounge/03.jpg",
+      "/img/Lounge/04.jpg",
+      "/img/Lounge/fd050523-bff5-4ac1-a879-46c7cc0ecbff.jpeg",
+      "/img/Lounge/Lounge.png",
+      "/img/Lounge/Lounge_01.jpg",
+      "/img/Lounge/Lounge_02.jpg",
+      "/img/Lounge/Lounge_03.jpg",
+      "/img/Lounge/Lounge_1.png",
+      "/img/Lounge/Lounge_2.png",
+      "/img/Lounge/Lounge_3.png",
+      "/img/Lounge/Lounge_4.png",
+      "/img/Lounge/Majlis_V1_01.jpg",
+      "/img/Lounge/Majlis_V1_02.jpg",
+      "/img/Lounge/Majlis_V1_03.jpg",
+      "/img/Lounge/Majlis_V2_01.jpg",
+      "/img/Lounge/Majlis_V2_02.jpg",
+      "/img/Lounge/Majlis_V2_03.jpg",
+      "/img/Lounge/Multipurpose_Hall_01.png",
+      "/img/Lounge/Multipurpose_Hall_02.png",
+      "/img/Lounge/WhatsApp Image 2025-08-25 at 13.48.42_0dcce403.jpg",
+      "/img/Lounge/WhatsApp Image 2025-08-25 at 13.48.51_2ac0369d.jpg",
+      "/img/Lounge/WhatsApp Image 2025-08-25 at 13.49.17_d964d5aa.jpg",
+      "/img/Lounge/WhatsApp Image 2025-08-25 at 13.49.34_ed87e095.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "folder": "Office",
+    "title": "Office",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Office project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Office/01.png"
+    ]
+  },
+  {
+    "id": 15,
+    "folder": "Powder_Room",
+    "title": "Powder Room",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Powder Room project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Powder_Room/01.jpeg",
+      "/img/Powder_Room/02.jpeg"
+    ]
+  },
+  {
+    "id": 16,
+    "folder": "Wardrobe",
+    "title": "Wardrobe",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Wardrobe project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Wardrobe/Wardrobe.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "folder": "Wine_Room",
+    "title": "Wine Room",
+    "category": "Architecture & Design",
+    "software": [
+      "3ds Max",
+      "Corona",
+      "Photoshop"
+    ],
+    "desc": "Explore our detailed renders for the Wine Room project.",
+    "color": "#3a3a3a",
+    "accent": "#222222",
+    "images": [
+      "/img/Wine_Room/Wine_Cave.png",
+      "/img/Wine_Room/Wine_Cave_Cam_01.png",
+      "/img/Wine_Room/Wine_Cave_Cam_02.png"
+    ]
+  }
+]

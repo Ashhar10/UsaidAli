@@ -1,0 +1,43 @@
+USAID ALI PORTFOLIO - ASSET & RESOURCE MAP
+==========================================
+
+This file lists the exact locations to add or change your professional assets.
+
+1. 3D MODELS (.glb)
+-------------------
+Location: d:\Usaid\Web\ArtisticGalaxy\public\
+Current Model: House.glb
+Update Config in: src/components/Hero.jsx (look for GLB_MODEL_PATH)
+
+2. PORTFOLIO WORK (Images & Info)
+---------------------------------
+Location to Edit Data: src/components/Portfolio.jsx
+Current: Using color placeholders.
+How to add images:
+  1. Drop your renders into the 'public/' folder.
+  2. Add 'image: "/filename.jpg"' to the project objects in Portfolio.jsx.
+
+3. SKILLS & SOFTWARE TAGS
+-------------------------
+Location: src/components/Skills.jsx
+Update the 'skills' array at the top of the file to change percentages or icons.
+
+4. EXPERIENCE & EDUCATION
+-------------------------
+Location: src/components/Experience.jsx
+Location: src/components/Education.jsx
+Edit the text directly in the JSX files.
+
+5. CONTACT INFORMATION
+----------------------
+Location: src/components/Contact.jsx
+Update emails, social links, and phone numbers in the JSX.
+
+6. DESIGN & COLORS
+------------------
+Location: src/index.css
+Change color variables at the top (+ :root) to update the entire site theme.
+
+==========================================
+For structural walkthrough, see:
+C:\Users\Pc\.gemini\antigravity\brain\fea90b81-0bcf-41e2-9e78-1e8420ea4718\walkthrough.md
